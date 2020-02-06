@@ -16,6 +16,11 @@ public class Deship {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        howCapt();
+    }
+    
+    public static void howCapt(){
+        System.out.println("Te be Capt, Ye moost lose thee arrrrrmmmmm. -Peg Leg");
     }
     
 }
